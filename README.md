@@ -8,7 +8,7 @@ As part of this exercise you will create a series of 'trivia questions' and add 
 
 This question would appear on the master branch.
 
-Q. What is the largest planet in the solar system?
+. What is the largest planet in the solar system?
 The same question and the answer would appear on the dedicated 'answer branch'.
 
 Q. What is the largest planet in the solar system?
@@ -16,4 +16,5 @@ A. Jupiter.
 Questions
 
 Q1 Who won the World War 2?
+Answer: The Allies
 
